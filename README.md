@@ -17,30 +17,30 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/aleilson" target="_blank">Autor</a>
+  <a href="#dart-sobre">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-funcionalidades">Functionalities</a> &#xa0; | &#xa0;
+  <a href="#rocket-tecnologias">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-pré-requesitos">Prerequisites</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-começando">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/aleilson" target="_blank">Author</a>
 </p>
 
 <br>
 
-## :dart: Sobre ##
+## :dart: About ##
 
-Ignite timer é uma aplicação da técnica Pomodoro, é um método de gerenciamento de tempo. A técnica consiste na utilização de um cronômetro para dividir o trabalho em períodos de 25 minutos ou mais, separados por breves intervalos.
+Ignite timer is an application of the Pomodoro technique, it is a time management method. The technique consists of using a timer to divide work into periods of 25 minutes or more, separated by brief breaks.
 
-## :sparkles: Funcionalidades ##
+## :sparkles: Functionalities ##
 
-:heavy_check_mark: useReducer para disparar actions na aplicação e no localstorage.
-:heavy_check_mark: immer para simplificar o manuseio de estruturas de dados imutáveis.
-:heavy_check_mark: criação de ciclos e listagem para a aplicação.
+:heavy_check_mark: useReducer to trigger actions in the application and in localstorage.
+:heavy_check_mark: immer to simplify the handling of immutable data structures.
+:heavy_check_mark: creation of cycles and listing for the application.
 
-## :rocket: Tecnologias ##
+## :rocket: Technologies ##
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following tools were used to build the project:
 
 
 - [Vite - React](https://vitejs.dev/)
@@ -48,31 +48,31 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [styled-components](https://styled-components.com/)
 
 
-## :white_check_mark: Pré requisitos ##
+## :white_check_mark: Prerequisites ##
 
-Antes de começar :checkered_flag:, você precisa ter o [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados em sua maquina.
+Before starting :checkered_flag:, you need to have the [Git](https://git-scm.com) and the [Node](https://nodejs.org/en/) installed on your machine.
 
-## :checkered_flag: Começando ##
+## :checkered_flag: Starting ##
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/aleilson/ignite-timer
-# Entre na pasta
+# Enter the folder
 $ cd ignite-timer
-# Instale as dependências
+# Install dependencies
 $ yarn install
-# Para iniciar o projeto
+# To start the project
 $ yarn dev para front-end
-# O app vai inicializar em <http://localhost:3000>
+# The app will launch in <http://localhost:3000> or <http://localhost:5173>
 ```
 
-## :memo: Licença ##
+## :memo: License ##
 
-Este projeto está sob licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
 
-Feito com :heart: por <a href="https://github.com/aleilson" target="_blank">aleilson</a>
+Made with :heart: by <a href="https://github.com/aleilson" target="_blank">aleilson</a>
 
 &#xa0;
 
-<a href="#top">Voltar para o topo</a>
+<a href="#top">Back to top</a>
